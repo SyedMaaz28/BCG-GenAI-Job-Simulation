@@ -33,6 +33,7 @@ Here's a short demo video explaining the project workflow and output:
 
 <video width="700" controls>
   <source src="GEN-AI.mp4" type="video/mp4">
+  Hello
 </video>
 
 
