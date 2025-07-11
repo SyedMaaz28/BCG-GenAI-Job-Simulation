@@ -27,4 +27,12 @@ The project demonstrates the potential of **GenAI in consulting** by simulating 
 - AI chatbot design principles using rule-based systems
 - Business communication through GenAI
 
+- ## 🎥 Project Demo
+
+Here's a short demo video explaining the project workflow and output:
+
+<video width="700" controls>
+  <source src="BCG_GEN-AI.mp4" type="video/mp4">
+</video>
+
 
